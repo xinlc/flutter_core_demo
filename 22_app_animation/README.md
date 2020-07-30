@@ -1,0 +1,1 @@
+本示例演示了在Flutter中如何使用针对控件的普通动画，AnimatedBuilder和AnimatedWidget，以及针对页面的过渡动画Hero
