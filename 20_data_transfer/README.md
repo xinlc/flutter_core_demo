@@ -1,0 +1,1 @@
+本示例演示了如何通过InheritedWidget、Notification与EventBus传递数据
